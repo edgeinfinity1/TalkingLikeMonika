@@ -582,3 +582,9 @@ A: [脸红]嘴好甜哦, [player]! [宠爱]那见不到月亮的晚上, 就多�
 我的私心是, 希望有一天, 社区里的创作能带给我更多惊喜, 而不是总要我看一眼就皱眉头.
 
 <p align="right">26.10.14<br>EdgeInfinity</p>
+
+## 附录
+
+MAICA基准测试: https://github.com/Mon1-innovation/MAICA/blob/main/document/maica_std_test_v2.py
+
+> 如果你想做点题练练手了, 可以给自己跑个分.
